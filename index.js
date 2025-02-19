@@ -4,15 +4,15 @@ const port = process.env.PORT || 8080;
 
 // Array of base URLs for random selection
 const CHECKOUT_URLS = [
-  "https://uniaopelavida.site/",
-  "https://uniaopelavida.site/",
-  "https://uniaopelavida.site/",
+  "https://solidarioamor.site/",
+  "https://solidarioamor.site/",
+  "https://solidarioamor.site/",
 ];
 
 const MAIN_URLS = [
-  "https://www.uniaopelavida.site/",
-  "https://www.uniaopelavida.site/",
-  "https://www.uniaopelavida.site/",
+  "https://www.solidarioamor.site/",
+  "https://www.solidarioamor.site/",
+  "https://www.solidarioamor.site/",
 ];
 
 // Improved random function with logging
